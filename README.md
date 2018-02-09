@@ -1,4 +1,4 @@
-# sokoban
+# Sokoban
 
 For play :
 
